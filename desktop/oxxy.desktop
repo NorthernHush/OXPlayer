@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=OXXY
+Comment=Minimal OXXY Music Player (Prototype)
+Exec=oxxy-test
+Icon=oxxy
+Terminal=false
+Type=Application
+Categories=Audio;Player;
